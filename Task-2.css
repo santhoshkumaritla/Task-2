@@ -1,0 +1,390 @@
+.bg{
+    background-image: url("/home/itla/task/banner-bg-8.png");
+    height: 145vh;
+    width: 230vh;
+    background-size: cover;;
+}
+.logo-image{
+    width: 170px;
+    height: 55px;
+    margin-top: -800px;
+    margin-right: 80px;
+    margin-left: 30px;
+}
+.nav-item{
+    margin-top: -415px;
+    margin-left: 50px;
+    width: auto;
+}
+.Started-button{
+    background-color: white;
+    width: 130px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    color: blue;
+}
+.nav-link{
+    color: white;
+}
+.succeed-para{
+   margin-left: -24em;
+    font-family: sans-serif;
+    color: white;
+    width: 500px;
+    font-size: 45px;
+    font-weight: bolder;
+    margin-top: 180px;
+}
+.chap-para{
+    margin-left: -67em;
+    color: white;
+    font-family: sans-serif;
+    width: 500px;
+    font-weight: bold;
+    line-height: 200%;
+}
+.Try-button{
+    margin-left: -67em;
+    color: #4527a4;
+    border: none;
+    border-radius: 30px;
+    width: 150px;
+    height: 60px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.find-para{
+    margin-left: -54em;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 16px;
+}
+.laptop-3{
+    float :left;
+    margin-top: 130px;
+    position: relative;
+    animation: mymove 5s ;
+    animation-delay: 2s;
+    margin-left: -500px;
+}
+      
+@keyframes mymove {
+    from {right: -500px;}
+    to {right: 50px;}
+}
+.Heading{
+    color: #7000e0;
+    padding: 50px 0px 0px 70px;
+    font-size: 20px;
+}
+.para{
+    padding: 10px 0px 0px 70px;
+    font-weight: bold;
+    font-size: 37px;
+    width: 500px;
+    font-family: sans-serif
+}
+.card-para{
+    margin: 0px 0px 51px;
+    padding: 20px 0px 0px 70px;
+    width:450px;
+    color: #777777; 
+    font-family: sans-serif;    
+    line-height: 200%;
+}
+.Learn-button{
+    margin-left: 70px;
+    background-color: #4527a4;
+    color:W;   
+    width: 150px;
+    height: 60px;
+    border: none;
+    border-radius: 33px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.Security-card{
+    margin-top: -25px;
+    border: none;
+    padding-left: 60px;
+    width: 30rem;
+    background-color: white;;
+    
+}
+.plugins-card{
+    padding-left: 30px;
+    width: 30rem;
+    margin-top: 20px;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #222222;
+    margin: 20px;
+    line-height: 5px;
+
+}
+.card-text{
+    font-size: 17px;
+    font-family: sans-serif;
+    color:#777777;
+    margin: 20px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+.card-img-top{
+    margin: 20px 0px 0px 30px;
+}
+.hello{
+    margin-right: 560px;
+}
+.Identify-card{
+    width: 40rem;
+}
+.Automatic-card{
+    padding-left: 50px;
+    margin-top: 40px;
+    width: 47rem;
+    margin-bottom: 100px;
+    height: 400px;
+}
+.card:hover{
+    color: #7000e0;
+}
+.pa1{
+    padding: 170px 0px 0px 70px;
+    font-weight: bolder;
+    font-size: 36px;
+    width: 600px;
+    font-family: sans-serif;
+}
+.pa{
+    padding-left: 70px;
+    width: 600px;
+    font-size: 17px;
+    color: #777777;
+    font-family: sans-serif;
+    line-height: 200%;
+}
+.ReadMore-button{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.support-image{
+    margin-top: 50px;
+    padding-left: 100px;
+}
+.paraimage{
+    position: relative;
+    animation: mymove 5s;
+    animation-delay: 2s;
+  }
+  
+  @keyframes mymove {
+    from {left: -500px;}
+    to {left: 30px;}
+  }
+.supportimage{
+    position: relative;
+    animation: mymove 5s ;
+    animation-delay: 2s;
+}
+      
+@keyframes mymove {
+    from {right: -500px;}
+    to {right: 50px;}
+}
+.supportimage2{
+    padding-top: 70px;
+    padding-left: 70px;
+    width: 300px;
+    position: relative;
+    animation: mymove 5s;
+    animation-delay: 2s;
+}
+@keyframes mymove {
+    from {left: -500px;}
+    to {left: 30px;}
+  }
+.pal1{
+    padding: 140px 40px 0px 400px;
+    font-weight: bolder;
+    font-size: 36px;
+    width: 90%;
+    font-family: sans-serif;    
+}
+.pal2{
+    padding-left: 400px;
+    margin-right: 70px;
+    padding-right: 50px;
+    font-size: 17px;
+    color: #777777;
+    font-family: sans-serif;
+    line-height: 200%;
+}
+.ReadMore1-button{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.illustrate-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: -100px;
+    margin-top: -50px;
+}
+.user{
+    padding-left: 150px;
+    padding-top: 100px;
+}
+.ei{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.tr{
+    color:#4527a4;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-top: -20px;
+    margin-left: -10px;
+}
+.award{
+    padding-left: 220px;
+    padding-top: 100px;
+}
+.one {
+    font-size: 70px;
+    font-weight: bolder;
+}
+.won{
+    color:#4527a4;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-top: -20px;
+    margin-left: 0px;
+}
+.join{
+    padding-left: 220px;
+    padding-top: 100px;
+}
+.two{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.mon{
+    color:#4527a4;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-top: -20px;
+    margin-left: -19px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 200px;
+    z-index: 1 ;
+}
+  
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover {color: blueviolet;}
+.dropdown:hover .dropdown-content {display: block;}
+hr.solid {
+    border-top: 3px solid green;
+}
+.main{
+    width: 80%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width:230.52px;
+    min-height: 56px;
+    font-family: calibri;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    font-weight: 400;
+    text-decoration: none;
+    transition: all 0.5s linear;
+
+}
+
+span {
+    font-size: 25px;
+    font-weight: 700;
+    margin-right: 300px;
+}   
+
+div {
+    position: relative;
+}
+
+.yellow {
+    background: none;
+    color: black;
+}
+
+.yellow::before {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 100%;
+    background-color:#4527a4;
+    position: absolute;
+    border-radius: 100px;
+    left: 1em;
+    z-index: -1;
+    transition: all 600ms ease;
+    margin-left: 50px;
+}
+
+.yellow:hover::before {
+    width: 150px;
+}
+
+.yellow:hover ion-icon {
+    transform: translateX(10px);
+}
+
+.card{
+    margin: 20px;
+    margin-left: 60px;
+    border-radius: 30px;
+    width: 30em;
+
+}
+.card{
+    border-radius: 30px;
+    margin: 20px;
+    width: 30em;
+}
+.card{
+    width: 30em;
+}
