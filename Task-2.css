@@ -4,29 +4,6 @@
     width: 230vh;
     background-size: cover;;
 }
-.logo-image{
-    width: 170px;
-    height: 55px;
-    margin-top: -800px;
-    margin-right: 80px;
-    margin-left: 30px;
-}
-.nav-item{
-    margin-top: -415px;
-    margin-left: 50px;
-    width: auto;
-}
-.Started-button{
-    background-color: white;
-    width: 130px;
-    height: 40px;
-    border: none;
-    border-radius: 20px;
-    color: blue;
-}
-.nav-link{
-    color: white;
-}
 .succeed-para{
    margin-left: -24em;
     font-family: sans-serif;
@@ -67,14 +44,15 @@
     position: relative;
     animation: mymove 5s ;
     animation-delay: 2s;
-    margin-left: -500px;
+    margin-right: -500px;
 }
       
 @keyframes mymove {
-    from {right: -500px;}
+    from {right: -500;}
     to {right: 50px;}
 }
-.Heading{
+
+.ing{
     color: #7000e0;
     padding: 50px 0px 0px 70px;
     font-size: 20px;
@@ -371,20 +349,84 @@ div {
 
 .yellow:hover ion-icon {
     transform: translateX(10px);
-}
-
-.card{
+}   
+.cardx{
     margin: 20px;
     margin-left: 60px;
     border-radius: 30px;
     width: 30em;
 
 }
-.card{
+.cardy{
     border-radius: 30px;
     margin: 20px;
     width: 30em;
 }
-.card{
+.cardz{
     width: 30em;
+    border-radius: 30px;
+    margin:20px 40px 20px 0px;
 }
+.card-img-bottom{
+    width:120px;
+    height: 120px;
+    margin: 10px 0px 0px 135px;
+}
+.Subscribe-button{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.subscribe-text{
+    padding-left: 120px;
+    width: 700px;
+}
+.subscribe-para1{
+    padding-top: 200px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 34px;
+}
+.subscribe-para2{
+    color: #777777;
+    font-family: sans-serif;
+    font-size: 17px;
+    padding-top: 40px;
+}
+.email-form{
+    width:700px;
+    padding-top: 50px;
+    height: 20px;
+    border-radius: 30px;
+}
+.subscribe{
+    margin-top: 120px;
+    width: 170px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.top-container {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .header {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 102px;
+  }
